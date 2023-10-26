@@ -1,6 +1,8 @@
 # Trending YouTube Video Statistics
 
-The following report is designed to provide insights on the differences between trending videos from YouTube United States (US) and Great Brutain (GB). To do so, we will analyse the YouTube list of top trending videos for each country, and aim to answer the following questions:
+The following report is designed to provide insights on the differences between trending videos from YouTube United States (US) and Great Brutain (GB). 
+
+To do so, we will analyse the YouTube list of top trending videos for each country, and aim to answer the following questions:
 
 - How many trending videos have been selected from both countries over time?
 - Which are the mostly viewed trending videos?
