@@ -16,6 +16,6 @@ To do so, we will analyse the YouTube list of top trending videos for each count
 - Is there a relationship between the number of views and number of likes by category?
 - Do videos which are most polarizing get shared the most?
 
-For this analysis, it is important to note that these videos are not necessarily the most-viewed videos overall for the calendar year. But rather the selected videos by YouTube which considers a variety of factors including measuring users interactions (number of views, shares, comments and likes).
+Note: these videos are not necessarily the most-viewed videos overall for the calendar year. But rather the selected videos by YouTube which considers a variety of factors including measuring users interactions (number of views, shares, comments and likes).
 
 ![image](https://www.billboard.com/wp-content/uploads/2022/10/youtube-logo-2022-billboard-espagnol-1548.jpg?w=942&h=623&crop=1)
