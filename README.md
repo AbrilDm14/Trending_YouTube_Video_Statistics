@@ -1,4 +1,4 @@
-# Trending YouTube Video Statistics 
+# Trending YouTube Video Statistics  
 
 The following report is designed to provide insights on the differences between trending videos from YouTube United States (US) and Great Brutain (GB).
 
